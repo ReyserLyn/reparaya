@@ -30,7 +30,7 @@
 			"jsxQuoteStyle": "double",
 			"quoteProperties": "asNeeded",
 			"quoteStyle": "single",
-			"semicolons": "always",
+			"semicolons": "asNeeded",
 			"trailingCommas": "all"
 		}
 	},
